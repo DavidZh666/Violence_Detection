@@ -9,6 +9,7 @@
 ### method文件介绍
 这里提供一些小算法
 + chose_key_pic.py 是用于选择关键帧的算法，后续会上传
++ almd.py是复现论文中human action recognition using adaptive local motion descriptor in Sparks.的方法，计算almd运动图像特征。
 ### ourdatasets文件介绍
 这是是我们拍摄的数据集（我们称之为 real violence datasets，RV datastes），现在只提供了划分的训练集和测试集以及验证集的结果，后续会通过某种方式公开。
 
