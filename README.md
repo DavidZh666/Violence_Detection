@@ -14,5 +14,5 @@
 这是是我们拍摄的数据集（我们称之为 real violence datasets，RV datastes），现在只提供了划分的训练集和测试集以及验证集的结果，后续会通过某种方式公开。
 
 
-#### 最终视频展示
+#### 测试视频
  [![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.bilibili.com/video/av66943237/)
