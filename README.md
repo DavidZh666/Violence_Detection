@@ -15,4 +15,4 @@
 
 
 #### 测试视频
- [![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.bilibili.com/video/av66943237/)
+ [![Watch the video](https://github.com/DavidZh666/Violence_Detection/blob/master/extra/display.png)](https://www.bilibili.com/video/av66943237/)
